@@ -1,0 +1,5 @@
+print("Hello, it is my first python project")
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
